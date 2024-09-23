@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(75, 171, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.about {
+    color: rgb(207, 0, 0);
+    font-size: 18px;
+}
+
+.skills {
+    color: rgb(17, 143, 0);
+    font-size: 18px;
+}
+
+.projects {
+    background-color: deepskyblue;
+    color: rgb(216, 202, 0);
+    font-size: 18px;
+}
+
+.contact {
+    color: rgb(183, 0, 219);
+    font-size: 18px;
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+}
