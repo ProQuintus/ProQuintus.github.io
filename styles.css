@@ -18,6 +18,8 @@ h1 {
 .skills {
     color: rgb(17, 143, 0);
     font-size: 18px;
+    padding: 15px;
+    width: 400px;
 }
 
 .project {
